@@ -2,3 +2,8 @@
 	path = EES-Odoo
 	url = git@github.com:mohammedelshazly2020/EES-Odoo.git
 	branch = pre_prod
+
+[submodule "EES-custom"]
+	path = EES-custom
+	url = git@github.com:mohammedelshazly2020/EES-custom.git
+	branch = pre_custom
